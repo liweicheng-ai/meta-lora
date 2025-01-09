@@ -5,11 +5,10 @@ This repository provides the PyTorch implementation of the following paper:
 > [**Meta-LoRA: Memory-Efficient Sample Reweighting for Fine-Tuning Large Language Models**]() <br>
 > [Weicheng Li]()<sup>1</sup>,
 > [Lixin Zou]()<sup>1</sup>,
-> [Chenliang Li]() <sup>1</sup>,
 > [Min Tang]() <sup>2</sup>,
 > [Qing Yu]()<sup>1</sup>,
-> [Wanli Li]()<sup>3</sup>
->
+> [Wanli Li]()<sup>3</sup>,
+> [Chenliang Li]() <sup>1</sup>,
 > <sup>1</sup>Wuhan University, <sup>2</sup>Monash University, <sup>3</sup>Huazhong Agricultural University<br>
 
 ## :hammer_and_wrench: Installation
